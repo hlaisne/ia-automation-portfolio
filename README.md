@@ -1,1 +1,2 @@
-# ia-automation-portfolio
+# ia-automation-portfolio 
+Projets d'automatisation IA
